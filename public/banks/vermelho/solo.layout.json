@@ -1,0 +1,20 @@
+{
+  "canvas": { "width": 1080, "height": 1350 },
+  "logo": { "x": 30, "y": 1250, "width": 160, "height": 80 },
+  "title": { "x": 50, "y": 60, "fontSize": 64, "fontFamily": "Bebas Neue", "fill": "#FFFFFF" },
+  "date": { "x": 800, "y": 70, "fontSize": 32, "fontFamily": "Montserrat", "fill": "#FFFFFF" },
+  "day": { "x": 800, "y": 110, "fontSize": 28, "fontFamily": "Montserrat", "fill": "#FFD100" },
+  "games": [
+    {
+      "x": 60, "y": 260, "width": 960, "height": 420,
+      "league": { "x": 20, "y": 10, "fontSize": 26 },
+      "time": { "x": 850, "y": 10, "fontSize": 26 },
+      "homeLogo": { "x": 60, "y": 60, "width": 200, "height": 200 },
+      "awayLogo": { "x": 700, "y": 60, "width": 200, "height": 200 },
+      "homeName": { "x": 60, "y": 280, "fontSize": 32 },
+      "awayName": { "x": 640, "y": 280, "fontSize": 32 },
+      "odd": { "x": 440, "y": 150, "fontSize": 80, "fontFamily": "Bebas Neue" },
+      "playerSlot": { "x": 340, "y": 700, "width": 400, "height": 550 }
+    }
+  ]
+}
